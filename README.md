@@ -22,7 +22,7 @@ Lemon Web Application is a dynamic web application built using Django as part of
 
 ## Installation and Setup
 
-1. Clone the repository from [GitHub](https://github.com/yourusername/lemon-web-app).
+1. Clone the repository from [GitHub](https://github.com/Aljabera/Lemon-Web-Application--META-Backend-Developer-Specialization).
 2. Create and activate a virtual environment.
 3. Install the required dependencies using the following command:
    ```
